@@ -2,8 +2,6 @@
 __pycache__/
 *.pyc
 .env
-data/raw/
-data/processed/
 mlruns/
 mlflow.db
 .ipynb_checkpoints/
