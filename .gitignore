@@ -6,4 +6,11 @@ data/raw/
 data/processed/
 mlruns/
 mlflow.db
-.ipynb_checkpoints/
+.ipynb_checkpoints/.env
+.venv/
+mlruns/
+mlflow.db
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.dvc/config.local
